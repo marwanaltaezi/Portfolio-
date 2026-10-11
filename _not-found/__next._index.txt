@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[3615,[],""]
+3:I[4819,[],""]
+:HL["/_next/static/css/6ef829636579fd20.css","style"]
+:HL["/marwan-portrait.webp","image",{"type":"image/webp","fetchPriority":"high"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6ef829636579fd20.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","as":"image","href":"/marwan-portrait.webp","type":"image/webp","fetchPriority":"high"}]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-3C-Jf7KRBFobTd7YcWhP"}
